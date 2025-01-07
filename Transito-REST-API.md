@@ -1,8 +1,2 @@
-É uma pequena aplicação para o gerenciamento de autuações de veículos que permite o 
-agente de transito realizar algumas operações de CRUD para cada recurso da REST API. Tais operações de cadastro, atualização, busca ou listagem(leitura) e exclusão 
-terão regras de negócios específicas.
-
-Como destaque podemos destacar as boas práticas que foram usadas, como: tratamento de exceções customizadas de forma global, RFC 7870, Data Transfer Object -DTO,
-validação de entrada de dados com Jakarta Bean Validation.
-
+É uma pequena aplicação para o gerenciamento de autuações de veículos, que permite ao agente de trânsito realizar operações de CRUD para cada recurso da REST API. As operações de cadastro, atualização, busca ou listagem (leitura) e exclusão possuem regras de negócio específicas. Também podemos destacar as boas práticas utilizadas, como: tratamento de exceções customizadas de forma global, conformidade com a RFC 7870, uso de Data Transfer Object (DTO) e validação de entrada de dados com Jakarta Bean Validation
 
